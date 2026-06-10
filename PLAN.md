@@ -45,7 +45,7 @@ Become comfortable building production-quality backend systems in Go with strong
 
 ### Tooling
 
-- [ ] Install Go and understand `$GOPATH` vs module mode
+- [x] Install Go and understand `$GOPATH` vs module mode
 - [ ] `go mod init`, `go mod tidy`, `go get`
 - [ ] `go build`, `go run`, `go test`, `go install`
 - [ ] `gofmt` and `goimports` — auto-formatting
