@@ -46,7 +46,7 @@ Become comfortable building production-quality backend systems in Go with strong
 ### Tooling
 
 - [x] Install Go and understand `$GOPATH` vs module mode
-- [ ] `go mod init`, `go mod tidy`, `go get`
+- [x] `go mod init`, `go mod tidy`, `go get`
 - [ ] `go build`, `go run`, `go test`, `go install`
 - [ ] `gofmt` and `goimports` — auto-formatting
 - [ ] `go vet` — static analysis
@@ -66,7 +66,7 @@ Become comfortable building production-quality backend systems in Go with strong
 
 ### Concepts
 
-- [ ] Variables, constants, and zero values
+- [x] Variables, constants, and zero values
 - [ ] Basic types: `int`, `string`, `bool`, `float64`, `byte`, `rune`
 - [ ] Slices — creation, append, copy, 3-index slicing, gotchas
 - [ ] Maps — creation, iteration, zero values, concurrency caveats
